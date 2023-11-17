@@ -1,5 +1,3 @@
-# Name - Darren Woods
-# Student ID - 011059884
 import csv
 import datetime
 import trucks
